@@ -15,7 +15,9 @@
 - Angular 11
 - Figma 
 - Adobe XD
-- 
+- SQL 
+- VS CODE
+- Entity Framework
 
 ### Wants to improve my skills in 
 
@@ -25,3 +27,4 @@
 - MongoDB
 - UX design
 - ASP.NET MVC
+- WPF

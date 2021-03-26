@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**natacharome/natacharome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### 🤵 About Me:
 
 - 🏦 I'm a junior developer who enjoy working on front end & back end, based in France.
